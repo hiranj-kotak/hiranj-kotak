@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+[![hiranj-kotak's GitHub | Stats](https://stats.quine.sh/hiranj-kotak/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=hiranj-kotak)
